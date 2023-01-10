@@ -1,0 +1,7 @@
+diff --git a/prueba.txt b/prueba.txt
+index 8d3d3a3..ee3071e 100644
+--- a/prueba.txt
++++ b/prueba.txt
+@@ -1 +1,2 @@
+ Prueba de que funciona correctamente.
++Modificamos el fichero anterior para ver que todo funciona correctamente y todo se puede hacer perfectamente.

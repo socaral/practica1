@@ -1,1 +1,2 @@
 Prueba de que funciona correctamente.
+Modificamos el fichero anterior para ver que todo funciona correctamente y todo se puede hacer perfectamente.
