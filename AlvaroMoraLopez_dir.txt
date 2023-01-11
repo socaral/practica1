@@ -1,0 +1,7 @@
+AlvaroMoraLopez.diff	      josejaviersanchezpiedras.diff
+AlvaroMoraLopez.txt	      josejaviersanchezpiedras.txt
+AlvaroMoraLopez_dir.txt       josejaviersanchezpiedras_dir.txt
+JohnAndersoMojicaParra.txt    prueba.diff
+JohnAndersonMojicaParra.diff  prueba.txt
+README.md		      tonytron_dir.txt
+javiervicenteguerrero.txt
