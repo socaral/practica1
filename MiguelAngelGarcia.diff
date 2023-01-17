@@ -1,0 +1,14 @@
+diff --git a/MiguelAngelGarcia.txt b/MiguelAngelGarcia.txt
+index f5aeae9..d7842e4 100644
+--- a/MiguelAngelGarcia.txt
++++ b/MiguelAngelGarcia.txt
+@@ -2,4 +2,6 @@ Hola
+ Soy
+ Miguel
+ Angel
+-García
+\ No newline at end of file
++García
++Segundo
++DAW
+\ No newline at end of file
